@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on My New Hugo Site</title>
-    <link>http://localhost:1313/money/posts/</link>
+    <link>https://mbaaron.github.io/money/posts/</link>
     <description>Recent content in Posts on My New Hugo Site</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 24 May 2025 20:43:31 -0400</lastBuildDate>
-    <atom:link href="http://localhost:1313/money/posts/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://mbaaron.github.io/money/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title> </title>
-      <link>http://localhost:1313/money/posts/why-a-blog-about-money/</link>
+      <link>https://mbaaron.github.io/money/posts/why-a-blog-about-money/</link>
       <pubDate>Sat, 24 May 2025 20:43:31 -0400</pubDate>
-      <guid>http://localhost:1313/money/posts/why-a-blog-about-money/</guid>
+      <guid>https://mbaaron.github.io/money/posts/why-a-blog-about-money/</guid>
       <description>&lt;h1 id=&#34;money-is-not-the-root-of-all-evil&#34;&gt;Money is &lt;em&gt;Not&lt;/em&gt; the &amp;ldquo;Root of All Evil&amp;rdquo;&lt;/h1&gt;&#xA;&lt;h2 id=&#34;money--options&#34;&gt;Money = Options&lt;/h2&gt;&#xA;&lt;h2 id=&#34;things-cost-more-than-you-think&#34;&gt;Things Cost More Than You Think&lt;/h2&gt;&#xA;&lt;h2 id=&#34;knowledge-awareness-is-power&#34;&gt;Knowledge (Awareness?) is Power&lt;/h2&gt;&#xA;&lt;h2 id=&#34;some-other-resources&#34;&gt;Some Other Resources&lt;/h2&gt;</description>
     </item>
   </channel>
