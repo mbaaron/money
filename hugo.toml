@@ -1,0 +1,5 @@
+publishDir = "docs"
+baseURL = 'https://mbaaron.github.io/money/'
+languageCode = 'en-us'
+title = 'My New Hugo Site'
+theme = 'ananke'
